@@ -1,6 +1,6 @@
 Name     : jdk-jackson-module-scala
 Version  : 2.7.6
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.7.6/jackson-module-scala_2.11-2.7.6.jar
 Source0  : http://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.7.6/jackson-module-scala_2.11-2.7.6.jar
 Source1  : http://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.7.6/jackson-module-scala_2.11-2.7.6.pom
